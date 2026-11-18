@@ -1,0 +1,12 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "budget-app",
+      "runtimeExecutable": "python",
+      "runtimeArgs": ["budget_app/server.py"],
+      "port": 8789,
+      "url": "http://127.0.0.1:8789"
+    }
+  ]
+}

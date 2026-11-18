@@ -1,0 +1,4 @@
+# Windows 배치 파일은 CRLF 줄바꿈을 유지해야 더블클릭 실행이 됨
+*.bat text eol=crlf
+# 엑셀은 이진 파일
+*.xlsx binary
